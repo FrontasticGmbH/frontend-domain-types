@@ -2,10 +2,6 @@
     "name": "@commercetools/domain-types",
     "version": "1.0.0",
     "license": "MIT",
-    "scripts": {
-        "build": "cp -r src/ lib/",
-        "release": "cp -r src/ lib/"
-    },
     "dependencies": {
         "typescript": "4.8.3"
     }
