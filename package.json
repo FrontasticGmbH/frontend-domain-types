@@ -1,5 +1,5 @@
 {
-    "name": "@commercetools/domain-types",
+    "name": "@commercetools-frontend/domain-types",
     "version": "1.0.0",
     "license": "MIT",
     "dependencies": {
