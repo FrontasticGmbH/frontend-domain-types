@@ -1,5 +1,5 @@
 {
-    "name": "@commercetools-frontend/domain-types",
+    "name": "@commercetools/frontend-domain-types",
     "version": "1.0.0-alpha.0",
     "license": "UNLICENSED",
     "dependencies": {
