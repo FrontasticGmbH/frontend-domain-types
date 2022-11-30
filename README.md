@@ -4,5 +4,5 @@
 
 The domain types are a set of models used within the commercetools
 frontend SDK extensions. Currently only within the alpha release stage,
-documentation is currently unavilable.
+documentation is currently unavailable.
 
