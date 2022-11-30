@@ -1,4 +1,12 @@
 
+## Version 1.0.3-alpha.0 (2022-11-30)
+
+
+
+* Bumped version
+* Added README.md
+* Removed src directory
+
 ## Version 1.0.2-alpha.0 (2022-11-29)
 
 Intiial release
