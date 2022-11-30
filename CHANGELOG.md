@@ -1,4 +1,11 @@
 
+## Version 1.0.4-alpha.0 (2022-11-30)
+
+
+
+
+* Fixed typo in README.md
+
 ## Version 1.0.3-alpha.0 (2022-11-30)
 
 
