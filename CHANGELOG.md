@@ -1,4 +1,9 @@
 
+## Version 1.0.0 (2023-01-16)
+
+
+* Full release out of alpha/beta
+
 ## Version 1.0.4-alpha.0 (2022-11-30)
 
 * Fixed typo in README.md
