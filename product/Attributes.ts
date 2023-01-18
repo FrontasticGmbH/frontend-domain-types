@@ -1,3 +1,3 @@
 export interface Attributes {
-  [key: string]: any;
+	[key: string]: any;
 }

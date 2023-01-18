@@ -1,4 +1,4 @@
 export interface PaginatedQuery {
-  limit?: number;
-  cursor?: string;
+	limit?: number;
+	cursor?: string;
 }
