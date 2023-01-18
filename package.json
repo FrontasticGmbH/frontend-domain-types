@@ -1,6 +1,6 @@
 {
     "name": "@commercetools/frontend-domain-types",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "UNLICENSED",
     "dependencies": {
         "typescript": "4.8.3"
