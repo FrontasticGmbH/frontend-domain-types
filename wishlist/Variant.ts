@@ -1,4 +1,4 @@
 export interface Variant {
-	sku: string;
-	images?: string[];
+    sku: string;
+    images?: string[];
 }
