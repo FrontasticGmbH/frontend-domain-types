@@ -8,19 +8,19 @@ import { ShippingInfo } from "./ShippingInfo";
 import { Money } from "../product/Money";
 
 export interface Cart {
-    cartId: string;
-    cartVersion?: string;
-    lineItems?: LineItem[];
-    email?: string;
-    birthday?: Date;
-    shippingInfo?: ShippingInfo; // Info of the shipping method selected by the customer
-    availableShippingMethods?: ShippingMethod[]; // Available shipping methods for this cart
-    shippingAddress?: Address;
-    billingAddress?: Address;
-    sum?: Money;
-    payments?: Payment[];
-    discountCodes?: Discount[];
-    taxed?: Tax;
+	cartId: string;
+	cartVersion?: string;
+	lineItems?: LineItem[];
+	email?: string;
+	birthday?: Date;
+	shippingInfo?: ShippingInfo; // Info of the shipping method selected by the customer
+	availableShippingMethods?: ShippingMethod[]; // Available shipping methods for this cart
+	shippingAddress?: Address;
+	billingAddress?: Address;
+	sum?: Money;
+	payments?: Payment[];
+	discountCodes?: Discount[];
+	taxed?: Tax;
 
-    // TODO: import the logic from Cart.php
+	// TODO: import the logic from Cart.php
 }

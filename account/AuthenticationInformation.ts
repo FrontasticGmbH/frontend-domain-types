@@ -1,5 +1,5 @@
 export interface AuthenticationInformation {
-    email: string;
-    password: string;
-    newPassword: string;
+	email: string;
+	password: string;
+	newPassword: string;
 }

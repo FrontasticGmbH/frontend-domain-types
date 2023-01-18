@@ -1,7 +1,7 @@
 export interface Group {
-    groupNameAll: "__SYSTEM_ALL";
+	groupNameAll: "__SYSTEM_ALL";
 
-    groupId: string;
-    name?: string;
-    permissions?: string[];
+	groupId: string;
+	name?: string;
+	permissions?: string[];
 }
