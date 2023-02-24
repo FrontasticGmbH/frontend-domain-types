@@ -1,11 +1,9 @@
 
 ## Version 1.0.3 (2023-01-19)
 
-
 * Updated perttier config and ran fix
 * Removed trailingComma:all
-
- Added editorconfig for github to render tabs properly
+* Added editorconfig for github to render tabs properly
 
 ## Version 1.0.1 (2023-01-18)
 
