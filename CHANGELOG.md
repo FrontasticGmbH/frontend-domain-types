@@ -1,26 +1,17 @@
 
 ## Version 1.0.6 (2023-03-29)
 
-
-
 * fix: exported index types as type to satisfy ts --isolatedModules flag
 
 ## Version 1.0.5 (2023-03-29)
-
-
 
 * Error on previously generated build
 
 ## Version 1.0.4 (2023-03-29)
 
-
-
-
 * Added index files for each domain
 
 ## Version 1.0.4 (2023-03-29)
-
-
 
 * Added index files for each domain
 
