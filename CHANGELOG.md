@@ -3,6 +3,13 @@
 
 
 
+
+* Added index files for each domain
+
+## Version 1.0.4 (2023-03-29)
+
+
+
 * Added index files for each domain
 
 ## Version 1.0.3 (2023-01-19)
