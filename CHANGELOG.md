@@ -1,4 +1,10 @@
 
+## Version 1.0.7 (2023-04-18)
+
+
+
+* fix: replaced category: string for categories?: string[] in product query
+
 ## Version 1.0.6 (2023-03-29)
 
 * fix: exported index types as type to satisfy ts --isolatedModules flag
